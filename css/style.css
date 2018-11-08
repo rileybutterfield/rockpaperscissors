@@ -7,3 +7,10 @@
   justify-content:space-between;
   
 }
+.main{
+ width: 600px;
+}
+body{
+  font-family: 'Work Sans', sans-serif;
+  background-color: #FFE4EC;
+}
